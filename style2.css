@@ -1,0 +1,116 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.hederfast {
+    font-size: 50px;
+}
+
+.watchlive {
+    width: 230px;
+    height: 64px;
+    font-size: 1.5em;
+    background-color: #DD0000;
+    color: whitesmoke;
+    border-radius: 5px;
+}
+
+.watchlive:hover {
+    border: 2px solid #DD0000;
+
+}
+
+.banar-heading {
+    width: 50%;
+}
+
+.banner-img img {
+    width: 581px;
+    height: 616px;
+    margin-top: 30px;
+}
+
+/*-------------------------Banner main part----------*/
+.bannerpart {
+    background-color: #161616;
+    display: flex;
+    color: whitesmoke;
+    width: 1310px;
+    height: 646px;
+    padding-left: 30px;
+    margin-left: 80px;
+    margin-top: 50px;
+    border-radius: 15px;
+}
+
+.buttowl {
+    color: whitesmoke;
+    text-decoration: none;
+}
+/*----------Airtical part-----------*/
+.div1st{
+    margin-left: 3%;
+}
+.mainbody{
+    display: flex;
+}
+#countryflag{
+       display: grid;
+       margin-top: 10%;
+       margin-left: 1%;
+}
+.flagdiv{
+    display: flex;
+}
+.allflag{
+    width: 252px;
+    height: 60px;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+}
+.mainflag{
+    margin-bottom: 10%;
+    width: 312px;
+    height: 242px;
+    background-color: white;
+    border: 1px solid rgb(88, 80, 80);
+    text-align: center;
+    border-radius: 10px;
+    
+}
+.flag2nd{
+    padding-top: 40px;
+    margin-left: 30px;
+}
+.mainall-flagp{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+}
+/*------------------Footer--------------------*/
+.footer-main {
+    width: auto;
+    height: 444px;
+    background-color: #161616;
+    text-align: center;
+
+}
+.fooh1 {
+    color: whitesmoke;
+    padding-top: 80px;
+}
+
+.footerspan a {
+    text-decoration: none;
+    color: whitesmoke;
+    margin-left: 10px;
+    margin-top: 80px;
+    padding: 15px;
+    padding-top: 50px;
+
+}
+
+
+.shuvo {
+    color: whitesmoke;
+    margin-top: 200px;
+}

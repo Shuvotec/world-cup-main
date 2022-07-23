@@ -1,0 +1,164 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.hederfast{
+    font-size: 50px;
+}
+.watchlive{
+    width: 230px;
+    height: 64px;
+    font-size: 1.5em;
+    background-color: #DD0000;
+    color: whitesmoke;
+    border-radius: 5px;
+}
+.watchlive:hover{
+    border: 2px solid #DD0000;
+    
+}
+.banar-heading{
+    width: 50%;
+}
+.banner-img img{
+    width: 581px;
+    height: 616px;
+    margin-top: 30px;
+}
+/*-------------------------Banner main part----------*/
+.bannerpart{
+    background-color: #161616;
+    display: flex;
+    color: whitesmoke;
+    width: 1310px;
+    height: 646px;
+    padding-left: 30px;
+    margin-left: 80px;
+    margin-top: 50px;
+    border-radius: 15px; 
+}
+.buttowl{
+    color: whitesmoke;
+    text-decoration: none;
+}
+/*----------airtical---------------*/
+.section-button{
+        width: 312px;
+        height: 312px;
+        font-size: 1em;
+        background-color: #DD0000;
+        color: whitesmoke;
+        border-radius: 8px;
+        background-color: black;
+        
+        
+    }
+.arbuttom {
+      display: grid;
+      grid-template-columns: repeat(1,1fr);
+      width: 252px;
+      height: 64px;
+      padding-top: 28px;
+      margin-left: 30px;
+      border-radius: 2%;
+    
+    }
+.arbuttom a{
+    text-decoration: none;
+}
+.artical1{
+     margin-left: 78px;;
+        margin-top: 100px;
+        
+        
+    }
+.button22 {
+        border-radius: 10px;
+            background-color: red;
+            color: whitesmoke;
+            font-size: 20px;
+            text-decoration: none;
+        
+    }
+.button11 {
+        border-radius: 10px;
+        font-size: 20px;
+    }
+    .button2{
+        color: black;
+    }
+    .button3{
+        color: whitesmoke;
+    }
+    /*-------------------Transfer Live-----------*/
+    .Livep1{
+        width: 312px;
+        height: 362px;
+        margin-left: 30px;
+        border: 1px solid black;
+        margin-top: 20px;
+        border-radius: 15px;
+    }
+.bottom-transfer{
+    width: 100px;
+    height: 32px;
+    border-radius: 5px;
+}
+.bottom-transfer a{
+    text-decoration: none;
+    color: black;
+}
+.chat-time{
+    margin-left: 60px;
+}
+.livepra{
+    margin-left: 20px;
+    margin-top: 15px;
+}
+.maincontaint{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    margin-top: 100px;
+
+    
+
+}
+article{
+        display: flex; 
+}
+/*------------------Footer--------------------*/
+.footer-main{
+    width: auto;
+    height: 444px;
+    background-color: #161616;
+    text-align: center;
+    
+}
+.fooh1{
+    color: whitesmoke;
+    padding-top: 80px;
+}
+
+.footerspan a{
+    text-decoration: none;
+    color: whitesmoke;
+    margin-left: 10px;
+    margin-top: 80px;
+    padding: 15px;
+    padding-top: 50px;
+    
+}
+.footdiv1 hr{
+    width: 1320px;
+    background-color: #836d6d;
+
+}
+.shuvo{
+    color: whitesmoke;
+    margin-top: 200px;
+}
+/*---------------Responsive----- Tab-------------*/
+/*-------------------------NEWSTAle Part-----------
+------------------------------------------------*/
+@media only screen and (min-width: 600px) {
+    /* For tablets: */
+

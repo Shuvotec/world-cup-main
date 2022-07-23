@@ -1,0 +1,178 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.hederfast {
+    font-size: 40px;
+    width: 384px;
+    height: 10px;
+}
+
+.watchlive {
+    width: 230px;
+    height: 64px;
+    font-size: 1em;
+    background-color: #DD0000;
+    color: whitesmoke;
+    border-radius: 5px;
+    margin-top: 40px;
+}
+
+.watchlive:hover {
+    border: 3px solid #DD0000;
+
+}
+
+.banar-heading {
+    width: 350px;
+    height: 450px;
+}
+
+.banner-img img {
+    width: 340px;
+    height: 400px;
+    margin-top: 98px;
+    margin-left: 10px;
+}
+
+.pra1st {
+    font-size: 12px;
+    line-height: 14px;
+}
+
+.para0nd {
+    margin-bottom: 30px;
+}
+
+.jala1 {
+    margin-top: 110px;
+}
+
+/*-------------------------Banner main part----------*/
+.bannerpart {
+    background-color: #161616;
+    display: flex;
+    color: whitesmoke;
+    width: 734px;
+    height: 498px;
+    padding-left: 20px;
+    margin-left: 10px;
+    margin-top: 29px;
+    border-radius: 15px;
+}
+
+/*-----------Manu Medel Upcoming Match,All Group,Blog----------------*/
+.arbuttom .button11 {
+    width: 224px;
+    height: 64px;
+    border: 1px solid black;
+    font-size: 20px;
+    background-color: white;
+    margin-top: 70px;
+    margin-left: 10px;
+    border-radius: 10px;
+}
+
+.arbuttom a {
+    text-decoration: none;
+    color: black;
+}
+
+.arbuttom .button22 {
+    width: 245px;
+    height: 64px;
+    border: 1px solid black;
+    font-size: 20px;
+    color: white;
+    background-color: red;
+    margin-top: 70px;
+    margin-left: 10px;
+    border-radius: 10px;
+}
+
+/*----------------------Artical Part-----------------------*/
+.livepra {
+    width: 357px;
+}
+
+.Livep1 {
+
+    width: 331px;
+    height: 362px;
+    margin-top: 15px;
+    margin: 20px;
+    border: 1px solid black;
+
+    border-radius: 15px;
+    text-align: center;
+}
+
+.bottom-transfer {
+    width: 100px;
+    height: 32px;
+    border-radius: 5px;
+}
+
+.bottom-transfer a {
+    text-decoration: none;
+    color: black;
+}
+
+.maincontaint {
+    width: 50%;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    margin-top: 60px;
+}
+
+/*------------------Footer--------------------*/
+.footer-main {
+    width: 768px;
+    height: 345px;
+    background-color: #161616;
+    text-align: center;
+
+}
+
+.fooh1 {
+    color: whitesmoke;
+    padding-top: 80px;
+}
+
+.footerspan a {
+    text-decoration: none;
+    color: whitesmoke;
+    margin-left: 10px;
+    margin-top: 80px;
+    padding: 15px;
+    padding-top: 50px;
+
+}
+
+.footdiv1 hr {
+    width: 700px;
+    background-color: #836d6d;
+
+}
+
+.shuvo {
+    color: whitesmoke;
+    margin-top: 200px;
+}
+
+.viewall {
+    width: 170px;
+    height: 60px;
+    border: 1px solid black;
+    color: white;
+    background-color: red;
+    border-radius: 5px;
+    margin: 80px 0px;
+    margin-left: 300px;
+    font-size: 20px;
+}
+
+.Livep1 .shuvohang {
+    width: 332px;
+}
+}
